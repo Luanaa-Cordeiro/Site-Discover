@@ -6,6 +6,10 @@
 <img alt="projeto DeveLinks" src = ".github/preview.png">
 </p>
 
+<p aling = "center">
+<img alt="projeto DeveLinks" src = ".github/site.png">
+</p>
+
 ## Tecnologias
 
 Esse projeto foi desenvolvido com:
